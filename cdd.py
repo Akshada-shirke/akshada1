@@ -1,9 +1,9 @@
 def display_menu():
     print("\nTo-Do List Menu")
-    print("1. Recent Tasks")
-    print("2. Add Task")
-    print("3. Remove Task")
-    print("4. Exit")
+    print("1. View Tasks")
+    print("2. hiii")
+    print("3. Task")
+    print("4. bye")
 
 def view_tasks(tasks):
     if not tasks:
